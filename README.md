@@ -1,2 +1,2 @@
-# Python-ile-Derin-renme
+# Python-ile-Derin-Ogrenme
 Dr. Merve Ayyuce Kizrak hocamız tarafından UDEMY üzerinden verilen “Deep Learning A-Z™| Python ile Derin Öğrenme” kursundaki notlarım ve uygulamalarım…
